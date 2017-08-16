@@ -1,0 +1,8 @@
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/CMakeFiles/01_Potencia.dir
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/CMakeFiles/02_Sumatoria.dir
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/CMakeFiles/03_Ackerman.dir
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/CMakeFiles/04_MCD.dir
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/CMakeFiles/05_Digitos.dir
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/test/lib/gtest-1.8.0/CMakeFiles/gtest.dir
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/test/lib/gtest-1.8.0/CMakeFiles/gtest_main.dir
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/test/CMakeFiles/run_test.dir

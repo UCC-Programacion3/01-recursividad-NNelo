@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/01_Potencia.dir/01_Potencia/main.cpp.o CMakeFiles/01_Potencia.dir/01_Potencia/potencia.cpp.o  -o 01_Potencia -rdynamic 

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alumno/Escritorio/01-recursividad-NNelo/02_Sumatoria/main.cpp
+iostream
+-
+sumatoria.h
+/home/alumno/Escritorio/01-recursividad-NNelo/02_Sumatoria/sumatoria.h
+
+/home/alumno/Escritorio/01-recursividad-NNelo/02_Sumatoria/sumatoria.cpp
+sumatoria.h
+/home/alumno/Escritorio/01-recursividad-NNelo/02_Sumatoria/sumatoria.h
+
+/home/alumno/Escritorio/01-recursividad-NNelo/02_Sumatoria/sumatoria.h
+

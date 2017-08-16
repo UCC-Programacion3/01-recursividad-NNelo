@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/03_Ackerman.dir/main.cpp.o CMakeFiles/03_Ackerman.dir/ackerman.cpp.o  -o 03_Ackerman -rdynamic 

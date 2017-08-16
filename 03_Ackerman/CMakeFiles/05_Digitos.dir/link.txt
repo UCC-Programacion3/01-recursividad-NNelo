@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/05_Digitos.dir/05_Digitos/main.cpp.o CMakeFiles/05_Digitos.dir/05_Digitos/digitos.cpp.o  -o 05_Digitos -rdynamic 

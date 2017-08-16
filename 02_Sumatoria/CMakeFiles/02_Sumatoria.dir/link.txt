@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/02_Sumatoria.dir/main.cpp.o CMakeFiles/02_Sumatoria.dir/sumatoria.cpp.o  -o 02_Sumatoria -rdynamic 
