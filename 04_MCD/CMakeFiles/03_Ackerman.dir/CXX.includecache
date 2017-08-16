@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/ackerman.cpp
+ackerman.h
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/ackerman.h
+
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/ackerman.h
+
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/main.cpp
+iostream
+-
+ackerman.h
+/home/alumno/Escritorio/01-recursividad-NNelo/03_Ackerman/ackerman.h
+

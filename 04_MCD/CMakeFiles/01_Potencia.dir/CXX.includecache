@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alumno/Escritorio/01-recursividad-NNelo/01_Potencia/main.cpp
+iostream
+-
+potencia.h
+/home/alumno/Escritorio/01-recursividad-NNelo/01_Potencia/potencia.h
+
+/home/alumno/Escritorio/01-recursividad-NNelo/01_Potencia/potencia.cpp
+
+/home/alumno/Escritorio/01-recursividad-NNelo/01_Potencia/potencia.h
+
