@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/04_MCD.dir/04_MCD/main.cpp.o CMakeFiles/04_MCD.dir/04_MCD/mcd.cpp.o  -o 04_MCD -rdynamic 

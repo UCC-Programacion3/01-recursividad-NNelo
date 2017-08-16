@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/alumno/Escritorio/01-recursividad-NNelo/05_Digitos/digitos.cpp
+iostream
+-
+digitos.h
+/home/alumno/Escritorio/01-recursividad-NNelo/05_Digitos/digitos.h
+
+/home/alumno/Escritorio/01-recursividad-NNelo/05_Digitos/digitos.h
+
