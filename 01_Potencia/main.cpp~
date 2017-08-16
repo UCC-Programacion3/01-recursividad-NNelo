@@ -1,9 +1,7 @@
 #include <iostream>
 #include "potencia.h"
 
-using namespace std;
-
 int main() {
-    cout << "Ejercicio 01/01\n" << endl;
+    std::cout << "Ejercicio 01/01\n" << std::endl;
     return 0;
 }

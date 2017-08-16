@@ -19,4 +19,7 @@ unsigned int resto(unsigned int a, unsigned int b) {
 }
 
 void escribir_espaciado(unsigned int num) {
+  
 }
+
+// ./test/run_test --gtest_filter=test_04_Digitos.*
